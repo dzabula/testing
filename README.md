@@ -4,4 +4,4 @@
 # Kredencijali za korisnicki nalog:
 # email: marko.dasic.110.20@ict.edu.rs
 # password: VisokaIct1
-# Detaljnije informacije se nalaze u Dokumentaciji (Dokumentacija.pdf).
+# Detaljnije informacije se nalaze u Dokumentaciji (Dokumentacija-ASP.pdf).
