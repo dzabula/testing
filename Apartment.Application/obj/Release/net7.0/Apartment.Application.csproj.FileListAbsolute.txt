@@ -1,0 +1,17 @@
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Application.deps.json
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Application.runtimeconfig.json
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Application.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Application.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Domain.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\bin\Release\net7.0\Apartment.Domain.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.csproj.AssemblyReference.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.AssemblyInfoInputs.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.AssemblyInfo.cs
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.csproj.CoreCompileInputs.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.csproj.CopyComplete
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\refint\Apartment.Application.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\Apartment.Application.genruntimeconfig.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.Application\obj\Release\net7.0\ref\Apartment.Application.dll

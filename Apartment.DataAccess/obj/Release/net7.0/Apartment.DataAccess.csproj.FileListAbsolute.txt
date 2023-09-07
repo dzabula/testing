@@ -1,0 +1,17 @@
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.DataAccess.deps.json
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.DataAccess.runtimeconfig.json
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.DataAccess.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.DataAccess.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.Domain.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\bin\Release\net7.0\Apartment.Domain.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.csproj.AssemblyReference.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.AssemblyInfoInputs.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.AssemblyInfo.cs
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.csproj.CoreCompileInputs.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.csproj.CopyComplete
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\refint\Apartment.DataAccess.dll
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.pdb
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\Apartment.DataAccess.genruntimeconfig.cache
+D:\ICT\III godina\ASP\Predispitna\MarkoDasic\Apartment.DataAccess\obj\Release\net7.0\ref\Apartment.DataAccess.dll
