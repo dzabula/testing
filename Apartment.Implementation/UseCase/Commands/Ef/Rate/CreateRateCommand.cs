@@ -39,7 +39,7 @@ namespace Apartment.Implementation.UseCase.Commands.Ef.Rate
             validator.ValidateAndThrow(request);
         
             //provera da li je korisnik vec uneo ocenu za trazeni apartman. Ukoliko jeste, ocena se azurira
-            var oldUserRate = Context.Rates.Where(x => x.UserId == this.user.Id).FirstOrDefault();
+            var oldUserRate = Context.Rates.Where(x => x.UserId == this.user.Id && x.ApartmentId == request.ApartmentId).FirstOrDefault();
             if (oldUserRate != null)
             {
                 oldUserRate.Value = request.Value;
